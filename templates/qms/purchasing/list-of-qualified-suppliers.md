@@ -6,18 +6,22 @@
 
 | Supplier Documentation            | Supplier #1                 | Supplier #2                 | (...) |
 |-----------------------------------|-----------------------------|-----------------------------|-------|
-| Supplier Name:                    | ABC Medical Content GmbH    | XYZ Medical Content GmbH    |       |
-| Purchase Description:             | Writing Clinical Evaluation | Writing Clinical Evaluation |       |
-| Supplier Status:                  | Approved                    | Blocked                     |       |
+| Supplier Name                     | ABC Medical Content GmbH    | XYZ Medical Content GmbH    |       |
+| Purchase Description              | Writing Clinical Evaluation | Writing Clinical Evaluation |       |
+| Criticality                       | Critical                    | Non-Critical                |       |
+| Supplier Status                   | Approved                    | Blocked                     |       |
 | Quality of Products / Services    | 3                           | 0                           |       |
 | Timeliness / Punctuality          | 3                           | 3                           |       |
 | Cooperation                       | 3                           | 3                           |       |
 | Payment Terms                     | 3                           | 3                           |       |
-| Average Score:                    | 3                           | 1,8                         |       |
-| Date of Last Evaluation:          | 01-04-2021                  | 01-04-2021                  |       |
-| Completed By:                     | Jack Smith (QMO)            | Jack Smith (QMO)            |       |
+| Average Score                     | 3                           | 1,8                         |       |
+| Date of Last Evaluation           | 01-04-2021                  | 01-04-2021                  |       |
+| Completed By                      | Jack Smith (QMO)            | Jack Smith (QMO)            |       |
+| Next Evaluation                   | 01-04-2022                  | 01-04-2022                  |       |
 | Non-Disclosure Agreement (NDA)    | \<if existing, link here>   | \<if existing, link here>   |       |
 | Supplier Certification            | \<if existing, link here>   | \<if existing, link here>   |       |
 | Quality Assurance Agreement (QAA) | \<if existing, link here>   | \<if existing, link here>   |       |
 | Supplier Auditing                 | \<if existing, link here>   | \<if existing, link here>   |       |
 | Other Measures                    |                             |                             |       |
+
+
